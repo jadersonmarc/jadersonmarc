@@ -1,6 +1,6 @@
 # Olá, eu sou o Marc Jaderson
 
-Sou um desenvolvedor web com mais de 5 anos de experiência, especializado na construção de aplicações robustas e escaláveis utilizando tecnologias modernas. Atualmente, estou focado no desenvolvimento de soluções inteligentes com LLMs, IA generativa e automação baseada em dados.
+Sou um desenvolvedor web com mais de 7 anos de experiência, especializado na construção de aplicações robustas e escaláveis utilizando tecnologias modernas. Atualmente, estou focado no desenvolvimento de soluções inteligentes com LLMs, IA generativa e automação baseada em dados.
 
  Duque de Caxias, RJ – Brasil  
  Contato: jadersonmarc@gmail.com  
