@@ -1,72 +1,73 @@
-# Olá, eu sou o Marc Jaderson
+# Hello, I'm Marc Jaderson
 
-Sou um desenvolvedor web com mais de 7 anos de experiência, especializado na construção de aplicações robustas e escaláveis utilizando tecnologias modernas. Atualmente, estou focado no desenvolvimento de soluções inteligentes com LLMs, IA generativa e automação baseada em dados.
+I'm a web developer with over 7 years of experience, specializing in building robust and scalable applications using modern technologies. 
+Currently, I’m focused on developing intelligent solutions with LLMs, generative AI, and data-driven automation.
 
- Duque de Caxias, RJ – Brasil  
- Contato: jadersonmarc@gmail.com  
- [Meu perfil na Hugging Face](https://huggingface.co/jadersonmarc)
-
----
-
-##  Objetivo Profissional
-
-Desenvolver soluções inovadoras e de alta qualidade com foco em aplicações web inteligentes, IA generativa, LLMs e automação baseada em dados.
+Duque de Caxias, RJ – Brazil  
+Contact: jadersonmarc@gmail.com  
+[My Hugging Face profile](https://huggingface.co/jadersonmarc)
 
 ---
 
-##  Experiência Profissional
+## Professional Objective
 
-- **GrupoQ** (2022–2023) – Desenvolvimento e manutenção de plataforma educacional com Ruby on Rails, NestJS e integração com ferramentas como Sentry e Swagger.
-- **Leadster** (2022) – Desenvolvimento de recursos para plataforma de automação de marketing usando Ruby on Rails.
-- **Pulses** (2022) – Manutenção de plataforma de gestão de RH com Laravel, Vue.js e React.
-- **Benfeitoria** (2021–2022) – Desenvolvimento de plataforma de financiamento coletivo com Laravel.
-- **Drift Web** (2021) – Criação de endpoints de integração com NestJS.
-- **Feegow** (2020–2021) – Manutenção de plataforma médica usando Laravel e GCP.
-- **Folha Dirigida** (2019–2020) – Desenvolvimento de APIs e integração com Google Tools usando Ruby on Rails e NestJS.
+To develop innovative and high-quality solutions focused on intelligent web applications, generative AI, LLMs, and data-driven automation.
 
 ---
 
-##  Projetos Recentes com IA
+## Professional Experience
 
-- Agentes de IA com Python e LLMs.
-- Aplicações com LangChain, Transformers e APIs da Hugging Face.
-- Projetos completos com RAG, embeddings e ferramentas de NLP.
-
----
-
-##  Formação
-
-- **Bacharelado** em Análise e Desenvolvimento de Sistemas  
-- **Técnico** em Eletrônica
-
-###  Certificações
-
-- Hugging Face: Transformers, Datasets e Tokenizers  
-- Fundamentos de NLP com Transformers  
-- Deploy e Integração de IA com Hugging Face Spaces  
+- **GrupoQ** (2022–2023) – Development and maintenance of an educational platform using Ruby on Rails, NestJS, and integration with tools like Sentry and Swagger.  
+- **Leadster** (2022) – Development of features for a marketing automation platform using Ruby on Rails.  
+- **Pulses** (2022) – Maintenance of an HR management platform with Laravel, Vue.js, and React.  
+- **Benfeitoria** (2021–2022) – Development of a crowdfunding platform using Laravel.  
+- **Drift Web** (2021) – Creation of integration endpoints with NestJS.  
+- **Feegow** (2020–2021) – Maintenance of a medical platform using Laravel and GCP.  
+- **Folha Dirigida** (2019–2020) – Development of APIs and integration with Google Tools using Ruby on Rails and NestJS.
 
 ---
 
-##  Habilidades Técnicas
+## Recent AI Projects
 
-**Linguagens & Frameworks:**  
+- AI agents using Python and LLMs  
+- Applications with LangChain, Transformers, and Hugging Face APIs  
+- Complete projects with RAG, embeddings, and NLP tools
+
+---
+
+## Education
+
+- **Bachelor’s Degree** in Systems Analysis and Development  
+- **Technical Degree** in Electronics
+
+### Certifications
+
+- Hugging Face: Transformers, Datasets, and Tokenizers  
+- NLP Fundamentals with Transformers  
+- AI Deployment and Integration with Hugging Face Spaces  
+
+---
+
+## Technical Skills
+
+**Languages & Frameworks:**  
 Python, Ruby, Ruby on Rails, Laravel, JavaScript (Vue.js, React.js), NestJS, TypeScript, PHP, SQL, HTML, CSS
 
-**IA & Dados:**  
-Transformers, Datasets da Hugging Face, LangChain, OpenAI API, RAG, NLP
+**AI & Data:**  
+Transformers, Hugging Face Datasets, LangChain, OpenAI API, RAG, NLP
 
-**DevOps & Ferramentas:**  
+**DevOps & Tools:**  
 Git, Docker, JIRA, Confluence, Swagger, AWS CodeDeploy, GCP, Envoyer
 
-**Testes & Monitoramento:**  
+**Testing & Monitoring:**  
 Rspec, PHPUnit, Sentry, Rollbar, New Relic
 
 ---
 
-##  Idiomas
+## Languages
 
-- **Inglês:** Intermediário
+- **English:** Intermediate
 
 ---
 
- **Estou sempre em busca de novos desafios com foco em tecnologia, IA e desenvolvimento web inteligente. Vamos colaborar?**
+**I'm always looking for new challenges focused on technology, AI, and intelligent web development. Shall we collaborate?**
